@@ -1,0 +1,1 @@
+(function(){System.register([`./useRouter-legacy-F5gk4sfJ.js`,`./Image-legacy-B_pAyW20.js`],function(e,t){var n,r,i,a,o;return{setters:[function(e){n=e.Rr,r=e.Ur,i=e.Zr,a=e.ti},function(e){o=e.t}],execute:function(){e(`t`,e=>{let[t,s]=i(!1);return r(n,{get when(){return!t()},get fallback(){return e.fallbackErr},get children(){return r(o,a(e,{onError:()=>{s(!0)}}))}})})}}})})();

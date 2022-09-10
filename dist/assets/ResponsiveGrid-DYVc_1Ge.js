@@ -1,0 +1,1 @@
+import{Ur as e,it as t}from"./useRouter-Dna42wF3.js";import{t as n}from"./Grid-CUNe-l-G.js";var r=r=>{let i=t(`settings_layout`),a;return i===`responsive`&&(a=`repeat(auto-fill, minmax(424px, 1fr))`),e(n,{w:`$full`,gap:`$2`,templateColumns:{"@initial":`1fr`,"@lg":a},get children(){return r.children}})};export{r as t};
