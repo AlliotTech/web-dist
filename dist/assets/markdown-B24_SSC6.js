@@ -1,0 +1,1 @@
+import{Kr as e,a as t,pt as n,z as r}from"./useRouter-CgpLT7Qy.js";import{w as i}from"./index-CYNNhv4t.js";import{t as a}from"./Markdown-DwxOac8S.js";var o=()=>{let[o]=t();return e(i,{get loading(){return o.loading},get children(){return e(a,{get children(){return o()?.content},get ext(){return n(r.obj.name)},toc:!0})}})};export{o as default};
