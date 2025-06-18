@@ -1,0 +1,1 @@
+System.register(["./index-legacy.2a350a0b.js"],(function(e,t){"use strict";var n,r,c;return{setters:[function(e){n=e.b,r=e.x,c=e.cx}],execute:function(){e("W",(function(e){var t=n();return r(c,{get colorScheme(){return e.yes?"success":"danger"},get children(){return t("global.".concat(e.yes?"yes":"no"))}})}))}}}));
