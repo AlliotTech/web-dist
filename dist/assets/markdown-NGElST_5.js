@@ -1,0 +1,1 @@
+import{L as e,Ur as t,a as n,ut as r}from"./useRouter-Dna42wF3.js";import{w as i}from"./index-6e-nDyKy.js";import{t as a}from"./Markdown-UJBv7wfW.js";var o=()=>{let[o]=n();return t(i,{get loading(){return o.loading},get children(){return t(a,{get children(){return o()?.content},get ext(){return r(e.obj.name)},toc:!0})}})};export{o as default};

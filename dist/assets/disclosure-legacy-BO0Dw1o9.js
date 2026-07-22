@@ -1,0 +1,1 @@
+(function(){System.register([`./useRouter-legacy-F5gk4sfJ.js`],function(e,t){var n;return{setters:[function(e){n=e.Zr}],execute:function(){e(`t`,(e={})=>{let[t,r]=n(e.defaultIsOpen??!1),i=()=>{r(!0),e.onOpen?.()},a=()=>{r(!1),e.onClose?.()};return{isOpen:t,onOpen:i,onClose:a,onToggle:()=>{t()?a():i()}}})}}})})();

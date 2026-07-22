@@ -1,1 +1,0 @@
-import{Ur as e}from"./store-BTp65exn.js";import{o as t}from"./Button-CgkDB36I.js";import{t as n}from"./Layout-LJmKD--k.js";import r from"./Upload-CP9HJA9z.js";var i=()=>e(t,{justifyContent:`center`,h:`100vh`,get children(){return e(n,{w:`$md`,get children(){return e(r,{})}})}});export{i as default};

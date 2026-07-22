@@ -1,0 +1,1 @@
+import{Vn as e}from"./useRouter-Dna42wF3.js";import{n as t}from"./FN6EICGO-DhIXI4bk.js";function n(n={}){let[r,i]=t({value:()=>e(n.isSelected),defaultValue:()=>!!e(n.defaultIsSelected),onChange:e=>n.onSelectedChange?.(e)});return{isSelected:r,setIsSelected:t=>{!e(n.isReadOnly)&&!e(n.isDisabled)&&i(t)},toggle:()=>{!e(n.isReadOnly)&&!e(n.isDisabled)&&i(!r())}}}export{n as t};

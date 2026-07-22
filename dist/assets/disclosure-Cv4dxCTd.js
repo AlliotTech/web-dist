@@ -1,0 +1,1 @@
+import{Zr as e}from"./useRouter-Dna42wF3.js";var t=(t={})=>{let[n,r]=e(t.defaultIsOpen??!1),i=()=>{r(!0),t.onOpen?.()},a=()=>{r(!1),t.onClose?.()};return{isOpen:n,onOpen:i,onClose:a,onToggle:()=>{n()?a():i()}}};export{t};

@@ -1,1 +1,0 @@
-import{Ur as e,f as t,h as n}from"./store-BTp65exn.js";import{a as r,o as i}from"./helper-CDFoHBia.js";var a=()=>{let a=n();return t(`manage.sidemenu.upload`),e(i,{type:`upload`,get nameAnalyzer(){return{regex:/^upload (.+) to \[(.+)]\((.+)\)$/,title:e=>e[1],attrs:{[a(`tasks.attr.upload.path`)]:e=>r(e[2],e[3])}}}})};export{a as default};
