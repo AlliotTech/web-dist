@@ -1,0 +1,1 @@
+import{Ur as e,i as t}from"./store-BTp65exn.js";import{Q as n,y as r}from"./components-C-b7W0HY.js";var i=()=>{let[i]=t();return e(n,{get loading(){return i.loading},get children(){return e(r,{class:`word-wrap`,get children(){return i()?.content},toc:!0})}})};export{i as default};

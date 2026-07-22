@@ -1,0 +1,1 @@
+(function(){System.register([`./store-legacy-BBZLBxZB.js`,`./components-legacy-3d6kHAqh.js`],function(e,t){var n,r,i,a;return{setters:[function(e){n=e.Ur,r=e.i},function(e){i=e.Q,a=e.y}],execute:function(){e(`default`,()=>{let[e]=r();return n(i,{get loading(){return e.loading},get children(){return n(a,{class:`word-wrap`,get children(){return e()?.content},toc:!0})}})})}}})})();

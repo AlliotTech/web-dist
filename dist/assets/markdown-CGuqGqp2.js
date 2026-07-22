@@ -1,0 +1,1 @@
+import{Ur as e,i as t,q as n,qt as r}from"./store-BTp65exn.js";import{Q as i,y as a}from"./components-C-b7W0HY.js";var o=()=>{let[o]=t();return e(i,{get loading(){return o.loading},get children(){return e(a,{get children(){return o()?.content},get ext(){return r(n.obj.name)},toc:!0})}})};export{o as default};

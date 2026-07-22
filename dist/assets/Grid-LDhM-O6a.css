@@ -1,0 +1,1 @@
+.app-grid--responsive{grid-template-columns:var(--app-grid-columns-initial)}@media (min-width:768px){.app-grid--responsive{grid-template-columns:var(--app-grid-columns-md,var(--app-grid-columns-initial))}}@media (min-width:1024px){.app-grid--responsive{grid-template-columns:var(--app-grid-columns-lg,var(--app-grid-columns-md,var(--app-grid-columns-initial)))}}
