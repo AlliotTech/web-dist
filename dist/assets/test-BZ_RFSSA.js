@@ -1,1 +1,0 @@
-import{Ur as e}from"./useRouter-Dna42wF3.js";import{t}from"./Layout-WTZBznca.js";import{i as n}from"./Stack-D2ygFn9X.js";import r from"./Upload-8Q0ZpoZ-.js";var i=()=>e(n,{justifyContent:`center`,h:`100vh`,get children(){return e(t,{w:`$md`,get children(){return e(r,{})}})}});export{i as default};
