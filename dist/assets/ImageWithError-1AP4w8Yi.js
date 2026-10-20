@@ -1,0 +1,1 @@
+import{Rr as e,Ur as t,Zr as n,ti as r}from"./useRouter-CT_-6drZ.js";import{t as i}from"./Image-CwXOq4jJ.js";var a=a=>{let[o,s]=n(!1);return t(e,{get when(){return!o()},get fallback(){return a.fallbackErr},get children(){return t(i,r(a,{onError:()=>{s(!0)}}))}})};export{a as t};

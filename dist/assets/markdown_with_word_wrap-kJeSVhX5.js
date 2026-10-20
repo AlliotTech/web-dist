@@ -1,0 +1,1 @@
+import{Ur as e,a as t}from"./useRouter-CT_-6drZ.js";import{w as n}from"./index-Ctx6pUV8.js";import{t as r}from"./Markdown-CGzqNREI.js";var i=()=>{let[i]=t();return e(n,{get loading(){return i.loading},get children(){return e(r,{class:`word-wrap`,get children(){return i()?.content},toc:!0})}})};export{i as default};
